@@ -1,4 +1,4 @@
 # demo
 This is my first git repository
 <br>
-Author- Sonal Kumari
+Author- Sonal Kumari (Digitus)
